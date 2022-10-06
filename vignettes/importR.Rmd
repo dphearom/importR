@@ -1,4 +1,4 @@
-  nbvmnv vbnm bvcbnvcbnmjxdsaaZzs 76452344p----
+---
 title: "Introduction to importing data with importR"
 output: rmarkdown::html_vignette
 vignette: >
