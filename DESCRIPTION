@@ -14,7 +14,7 @@ Imports:
   haven,
   readxl,
   tools,
-  json,
+  rjson,
   vroom
 Suggest:
   knitr,
