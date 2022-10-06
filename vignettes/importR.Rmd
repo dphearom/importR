@@ -1,0 +1,19 @@
+  nbvmnv vbnm bvcbnvcbnmjxdsaaZzs 76452344p----
+title: "Introduction to importing data with importR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to importing data with importR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(importR)
+```

@@ -20,3 +20,6 @@ Suggest:
   knitr,
   rmarkdown
 VignetteBuilder: knitr
+Suggests: 
+    knitr,
+    rmarkdown
